@@ -1,9 +1,19 @@
-## Welcome to Yun-Chen Lo's Page
+## Welcome to my Page
 
 ### Current State
 
 Undergraduate EE Student in National Tsing Hua University(NTHU)
 Research Student in SSDLab(lab815)
+
+### Publications
+
+### Projects
+
+### Resume
+
+### Internships
+
+### Competition Awards
 
 ```markdown
 Syntax highlighted code block
