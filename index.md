@@ -1,44 +1,36 @@
-## Welcome to my Page
+## Welcome to my Page 
+
+### [Resume](https://drive.google.com/file/d/1QGFCl5tX7kb_BmRS08KPIeKVAKxrQaK9/view?usp=sharing)
 
 ### Current State
 
-Undergraduate EE Student in National Tsing Hua University(NTHU)
-Research Student in SSDLab(lab815)
+#### National Tsing Hua University(NTHU) EE
+
+- Undergraduate in EE
+- Research Student in SSDLab(lab815)
 
 ### Publications
-
+- **DrowsyNet: Convolutional Neural Networks with Runtime Power-Accuracy Tunability Using Inference-Stage Dropout**
+    - Accepeted by VLSI-DAT 2018
+    - Paper Link(to be added)
 ### Projects
-
-### Resume
+- **Lenet Accelerator(4 stars)**
+    - [Github Link](https://github.com/jasonlo0509/Lenet_Accelerator)
+- **Hadoop PageRank**
+    - [Github Link](https://github.com/jasonlo0509/Hadoop_PageRank)
 
 ### Internships
+- **eMemory(Top embedded memory IP provider)**
+    - Researcher(2017 Summer)
+        - Conducted Research about computing in memory
+    - Operation Assistance, Legal Department
+        - Helped analyze patents and collected them as report
+- **Microsoft**
+    - H1 Online Team Project Manager, Microsoft Student Partners in Taiwan
 
 ### Competition Awards
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasonlo0509/jasonlo0509.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Meichu Hackthon 2017**
+    - Champion of 104 Corporation Team
+- **Taiwan University Chinese Debate Competition**
+    - 2015:3rd
+    - 2016:2nd
