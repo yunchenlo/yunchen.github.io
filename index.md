@@ -13,6 +13,7 @@
 - **DrowsyNet: Convolutional Neural Networks with Runtime Power-Accuracy Tunability Using Inference-Stage Dropout**
     - Accepeted by VLSI-DAT 2018
     - Paper Link(to be added)
+    
 ### Projects
 - **Lenet Accelerator(4 stars)**
     - [Github Link](https://github.com/jasonlo0509/Lenet_Accelerator)
