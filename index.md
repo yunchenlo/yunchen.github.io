@@ -4,9 +4,9 @@
 
 ### Current State
 
-#### National Tsing Hua University(NTHU) EE
+#### National Tsing Hua University(NTHU)
 
-- Undergraduate in EE
+- Undergraduate in EE department
 - Research Student in SSDLab(lab815)
 
 ### Publications
