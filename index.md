@@ -1,4 +1,4 @@
-## Welcome to my Page 
+# Welcome to my Page 
 
 ### [Resume](https://drive.google.com/file/d/1QGFCl5tX7kb_BmRS08KPIeKVAKxrQaK9/view?usp=sharing)
 
@@ -10,13 +10,17 @@
 - Research Student in SSDLab(lab815)
 
 ### Publications
-- **DrowsyNet: Convolutional Neural Networks with Runtime Power-Accuracy Tunability Using Inference-Stage Dropout**
-    - Accepeted by VLSI-DAT 2018
-    - Paper Link(to be added)
-    
+- **DrowsyNet: Convolutional Neural Networks with Runtime Power-Accuracy Tunability Using Inference-Stage Dropout(VLSI-DAT 2018)**
+    - Ren-Shuo Liu; **Yun-Chen Lo**;  Yuan-Chun Luo ;  Chih-Yu Shen ;  Cheng-Ju Lee
+    - [Paper Link](https://ieeexplore.ieee.org/document/8373242/)
+   
+    <img src="https://i.imgur.com/n2Qj4X3.png" width="400">
+  
 ### Projects
 - **Lenet Accelerator(4 stars)**
     - [Github Link](https://github.com/jasonlo0509/Lenet_Accelerator)
+- **Dockerized YOLO on Rpi Cluster(1 star)**
+    - [Github Link](https://github.com/jasonlo0509/Dockerized-YOLO-on-Rpi-Cluster)
 - **Hadoop PageRank**
     - [Github Link](https://github.com/jasonlo0509/Hadoop_PageRank)
 
