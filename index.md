@@ -17,7 +17,7 @@
     <img src="https://i.imgur.com/n2Qj4X3.png" width="400">
   
 ### Projects
-- **Lenet Accelerator(4 stars)**
+- **Lenet Accelerator(6 stars)**
     - [Github Link](https://github.com/jasonlo0509/Lenet_Accelerator)
 - **Dockerized YOLO on Rpi Cluster(1 star)**
     - [Github Link](https://github.com/jasonlo0509/Dockerized-YOLO-on-Rpi-Cluster)
