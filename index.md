@@ -25,11 +25,17 @@
     - [Github Link](https://github.com/jasonlo0509/Hadoop_PageRank)
 
 ### Internships
+	
+<img src="https://www.design-reuse.com/news_img2/news41373/ememory.jpg" width="200">
+	
 - **eMemory(Top embedded memory IP provider)**
     - Researcher(2017 Summer)
         - Conducted Research about computing in memory
     - Operation Assistance, Legal Department
         - Helped analyze patents and collected them as report
+
+<img src="https://cdn.vox-cdn.com/thumbor/NeSo4JAqv-fFJCIhb5K5eBqvXG4=/7x0:633x417/1200x800/filters:focal(7x0:633x417)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg" width="250">
+
 - **Microsoft**
     - H1 Online Team Project Manager, Microsoft Student Partners in Taiwan
 
