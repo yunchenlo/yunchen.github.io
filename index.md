@@ -14,11 +14,16 @@
 
 ### Publications
 - **DrowsyNet: Convolutional Neural Networks with Runtime Power-Accuracy Tunability Using Inference-Stage Dropout(VLSI-DAT 2018)**
-    - Ren-Shuo Liu; **Yun-Chen Lo**;  Yuan-Chun Luo ;  Chih-Yu Shen ;  Cheng-Ju Lee
+    - Ren-Shuo Liu (Advisor); **Yun-Chen Lo**;  Yuan-Chun Luo ;  Chih-Yu Shen ;  Cheng-Ju Lee
     - [Paper Link](https://ieeexplore.ieee.org/document/8373242/)
    
     <img src="https://i.imgur.com/n2Qj4X3.png" width="400">
-  
+    
+    - **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility(MICRO-51 2018 ACM SRC)**
+    - **Yun-Chen Lo∗**, Yu-Shun Hsiao∗, and Ren-Shuo Liu (Advisor) (* equal contribution)
+    - [Paper Link](https://www.microarch.org/micro51/SRC/posters/25_hsiao.pdf)
+   
+    <img src="https://i.imgur.com/Qm2Sbly.png" width="400">
 ### Projects
 - **Lenet Accelerator(6 stars)**
     - [Github Link](https://github.com/jasonlo0509/Lenet_Accelerator)
