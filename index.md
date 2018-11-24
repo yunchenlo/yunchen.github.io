@@ -19,7 +19,8 @@
    
     <img src="https://i.imgur.com/n2Qj4X3.png" width="400">
     
-    - **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility(MICRO-51 2018 ACM SRC)**
+
+- **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility(MICRO-51 2018 ACM SRC)**
     - **Yun-Chen Lo∗**, Yu-Shun Hsiao∗, and Ren-Shuo Liu (Advisor) (* equal contribution)
     - [Paper Link](https://www.microarch.org/micro51/SRC/posters/25_hsiao.pdf)
    
