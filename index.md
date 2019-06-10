@@ -13,6 +13,17 @@
 - Deep Learning Accelerator Design(i.e. FPGA, Digital ASIC)
 
 ### Publications
+- **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator (ESSCIRC'19 accepted)**
+	- **Yun-Chen Lo**, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, Ren-Shuo Liu
+   - [Session Link](https://www.epapers.org/ess2019/ESR/session_view.php?PHPSESSID=aor588dm67e3ncnm3dvph74b46&session_id=11)
+
+
+- **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility(MICRO-51 2018 ACM Student Research Competition 2nd Place winner)**
+    - Yu-Shun Hsiao∗, **Yun-Chen Lo∗**, and Ren-Shuo Liu (Advisor) (* equal contribution)
+    - [Paper Link](https://www.microarch.org/micro51/SRC/posters/25_hsiao.pdf)
+   
+    <img src="https://i.imgur.com/Qm2Sbly.png" width="400">
+
 - **DrowsyNet: Convolutional Neural Networks with Runtime Power-Accuracy Tunability Using Inference-Stage Dropout(VLSI-DAT 2018)**
     - Ren-Shuo Liu (Advisor); **Yun-Chen Lo**;  Yuan-Chun Luo ;  Chih-Yu Shen ;  Cheng-Ju Lee
     - [Paper Link](https://ieeexplore.ieee.org/document/8373242/)
@@ -20,11 +31,12 @@
     <img src="https://i.imgur.com/n2Qj4X3.png" width="400">
     
 
-- **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility(MICRO-51 2018 ACM Student Research Competition 2nd Place winner)**
-    - **Yun-Chen Lo∗**, Yu-Shun Hsiao∗, and Ren-Shuo Liu (Advisor) (* equal contribution)
-    - [Paper Link](https://www.microarch.org/micro51/SRC/posters/25_hsiao.pdf)
-   
-    <img src="https://i.imgur.com/Qm2Sbly.png" width="400">
+
+    
+        
+
+
+	
 ### Projects
 - **Lenet Accelerator(6 stars)**
     - [Github Link](https://github.com/jasonlo0509/Lenet_Accelerator)
@@ -32,6 +44,9 @@
     - [Github Link](https://github.com/jasonlo0509/Dockerized-YOLO-on-Rpi-Cluster)
 - **Hadoop PageRank**
     - [Github Link](https://github.com/jasonlo0509/Hadoop_PageRank)
+
+
+
 
 ### Internships
 	
