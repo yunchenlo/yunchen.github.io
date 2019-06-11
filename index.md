@@ -5,12 +5,12 @@
 ### Current State
 - **National Tsing Hua University(NTHU)**
 
- - Master Program in Eletrical Engineering department(2018~)
- - Research Student in SSDLab(lab815)
+ - Master Program in Eletrical Engineering department (2018~)
+ - Research Student in System & Storage Design Lab, NTHU
 
 ### Research Interests
 - Enables Deep Learning flexibity in different scenarios
-- Deep Learning Accelerator Design(i.e. FPGA, Digital ASIC)
+- Convolutional Neural Network SoC & Full-system Design
 
 ### Publications
 - **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator (ESSCIRC'19 accepted)**
@@ -18,7 +18,7 @@
    - [Session Link](https://www.epapers.org/ess2019/ESR/session_view.php?PHPSESSID=aor588dm67e3ncnm3dvph74b46&session_id=11)
 
 
-- **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility(MICRO-51 2018 ACM Student Research Competition 2nd Place winner)**
+- **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility (MICRO-51 2018 ACM Student Research Competition 2nd Place winner)**
     - Yu-Shun Hsiao∗, **Yun-Chen Lo∗**, and Ren-Shuo Liu (Advisor) (* equal contribution)
     - [Paper Link](https://www.microarch.org/micro51/SRC/posters/25_hsiao.pdf)
    
