@@ -1,10 +1,10 @@
 # Welcome to my Page
 
 ## Current State
-- **National Tsing Hua University(NTHU)**
+- **National Tsing Hua University (NTHU)**
 
  - Master Program in Eletrical Engineering Department (2018~)
- - Research Student in System and Storage Design Lab(SSDLab)
+ - Research Student in System and Storage Design Lab (SSDLab)
  - Advised by Professor Ren-Shuo Liu
 
 ## Research Interests
@@ -48,10 +48,10 @@
 * * *
 	
 ## Projects
-- [**Lenet Accelerator (13 stars, 8 forks)**](https://github.com/jasonlo0509/Lenet_Accelerator)
-- [**Dockerized YOLO on Rpi Cluster (1 star, 1 fork)**]((https://github.com/jasonlo0509/Dockerized-YOLO-on-Rpi-Cluster))
-- [**Hadoop PageRank (1 star)**](https://github.com/jasonlo0509/Hadoop_PageRank)
-- [**Font2Font (2 stars, 1 fork)**](https://github.com/jasonlo0509/Font2Font)
+#### [**Lenet Accelerator (13 stars, 8 forks)**](https://github.com/jasonlo0509/Lenet_Accelerator)
+#### [**Dockerized YOLO on Rpi Cluster (1 star, 1 fork)**]((https://github.com/jasonlo0509/Dockerized-YOLO-on-Rpi-Cluster))
+#### [**Hadoop PageRank (1 star)**](https://github.com/jasonlo0509/Hadoop_PageRank)
+#### [**Font2Font (2 stars, 1 fork)**](https://github.com/jasonlo0509/Font2Font)
 
 * * *
 
