@@ -25,10 +25,6 @@
 - **Yun-Chen Lo**, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
 - [Session Link](https://www.epapers.org/ess2019/ESR/session_view.php?PHPSESSID=aor588dm67e3ncnm3dvph74b46&session_id=11)
 
-### **FlexNet: Hardware-Algorithm Co-Design to Enable Runtime Bitwidth Flexibility for CNN Accelerators**
-
-- Yun-Chen Lo, Yu-Shun Hsiao and Ren-Shuo Liu
-
 ### **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility (Student Research Competition 2nd Place Winner @ IEEE/ACM MICRO-51, 2018) (ICCD'19 Work-In-Progress Poster Accepted)**
 
 - Yu-Shun Hsiao∗, **Yun-Chen Lo∗**, and Ren-Shuo Liu (* indicates equal contribution)
