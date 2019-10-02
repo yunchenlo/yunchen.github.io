@@ -25,21 +25,19 @@
 * * *
 
 ## Publications
-### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator**
-#### (ESSCIRC'19 accepted)	
+### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator** (ESSCIRC'19 Accepted)
+
 - **Yun-Chen Lo**, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
 - [Session Link](https://www.epapers.org/ess2019/ESR/session_view.php?PHPSESSID=aor588dm67e3ncnm3dvph74b46&session_id=11)
 
-### **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility**
-#### (Student Research Competition 2nd Place Winner @ IEEE/ACM MICRO-51, 2018) 
-#### (ICCD'19 Work-In-Progress Poster Accepted)
+### **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility** (MICRO'18 SRC 2nd Place Winner) (ICCD'19 Work-In-Progress Poster Accepted)
 
 - Yu-Shun Hsiao∗, **Yun-Chen Lo∗**, and Ren-Shuo Liu (* indicates equal contribution)
 - [Paper Link](https://www.microarch.org/micro51/SRC/posters/25_hsiao.pdf)
    
     <img src="https://i.imgur.com/Qm2Sbly.png" width="400">
 
-### **DrowsyNet: Convolutional Neural Networks with Runtime Power-Accuracy Tunability Using Inference-Stage Dropout (VLSI-DAT'18)**
+### **DrowsyNet: Convolutional Neural Networks with Runtime Power-Accuracy Tunability Using Inference-Stage Dropout** (VLSI-DAT'18)
 - Ren-Shuo Liu, **Yun-Chen Lo**, Yuan-Chun Luo, Chih-Yu Shen, and Cheng-Ju Lee
 - [Paper Link](https://ieeexplore.ieee.org/document/8373242/)
    
