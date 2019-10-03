@@ -46,12 +46,12 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 ## Programming Language & Tools
 - **Hardware Related:** Verilog, System Verilog, System-C (HLS)
 - **Software Related:** C, Python, Java, Bash script
-- **Tool:** Xilinx Vivado (FPGA), Design Compiler & IC Compiler (Digital Design), Cadence Stratus (High Level Synthesis)
+- **Tool:** Xilinx Vivado (FPGA), Design Compiler & IC Compiler (Digital VLSI Design), Cadence Stratus (High Level Synthesis)
 
 
 ## Internships
 	
-- **eMemory(Top embedded Flash Memory IP provider)**
+- **eMemory (Top embedded Flash Memory IP provider)**
     - Research Intern (2017 Summer)
         - Conducted computing in memory research 
         - Conducted internal Tutorial for 2 hours
