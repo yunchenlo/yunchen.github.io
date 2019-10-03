@@ -1,4 +1,4 @@
-remote theme: gcushen/hugo-academic
+theme: jekyll-theme-dinky
 title: Yun-Chen Lo
 description: NTHU EE Master Student seeks breakthrough of technology through HW/SW co-design
 logo: /pics/homepage_pic.jpg
