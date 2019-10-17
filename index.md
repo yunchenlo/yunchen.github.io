@@ -17,11 +17,6 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 
 
 ## Publications
-### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator** 
-- **Yun-Chen Lo**, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
-
-
-
 ### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator** (SRC @ MICRO'19 Graduate Group 2nd Place Winner) (ESSCIRC'19 Accepted)
 
 - **Yun-Chen Lo**, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
