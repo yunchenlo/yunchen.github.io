@@ -11,18 +11,23 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 
 ## Important Links
 
-1. [Resume](https://drive.google.com/file/d/1QGFCl5tX7kb_BmRS08KPIeKVAKxrQaK9/view?usp=sharing)
+1. [Resume (Last Update Oct. 2019)](https://drive.google.com/file/d/1QGFCl5tX7kb_BmRS08KPIeKVAKxrQaK9/view?usp=sharing)
 2.  [Semantic Scholar](https://www.semanticscholar.org/author/Yun-Chen-Lo/46215383)
 3. [Google Scholar](https://scholar.google.com/citations?user=DfbwFFgAAAAJ&hl=zh-TW)
 
 
 ## Publications
+### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator** (SRC @ MICRO'19 Graduate Group 2nd Place Winner)
+- **Yun-Chen Lo**, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
+- [Accepted Papers](https://www.microarch.org/micro52/program/src.html)
+
+
 ### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator** (ESSCIRC'19 Accepted)
 
 - **Yun-Chen Lo**, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
 - [Session Link](https://www.epapers.org/ess2019/ESR/session_view.php?PHPSESSID=aor588dm67e3ncnm3dvph74b46&session_id=11)
 
-### **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility** (MICRO'18 SRC 2nd Place Winner) (ICCD'19 Work-In-Progress Poster Accepted)
+### **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility** (MICRO'18 SRC Undergraduate Group 2nd Place Winner) (ICCD'19 Work-In-Progress Poster Accepted)
 
 - Yu-Shun Hsiao∗, **Yun-Chen Lo∗**, and Ren-Shuo Liu (* indicates equal contribution)
 - [Paper Link](https://www.microarch.org/micro51/SRC/posters/25_hsiao.pdf)
