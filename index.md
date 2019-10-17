@@ -4,7 +4,7 @@
 	title="A cute kitten" width="270" />
 
 ## Bio
-**Yun-Chen Lo** (Jason) is currently pursuing his master degree at EE Department, National Tsing Hua University, Taiwan.  His research interest includes Computer Architecture, more specifically includes **HW/SW co-design and accelerator design for convolutional neural networks**.  He publishes three papers, one of which won the 2nd place prize of ACM Student Research Competition at MICRO 2018.
+**Yun-Chen Lo** (Jason) is currently pursuing his master degree at EE Department, National Tsing Hua University, Taiwan.  His research interest includes Computer Architecture, more specifically includes **HW/SW co-design and accelerator design for convolutional neural networks**.  He publishes three papers, two of the papers won 2nd place prize of ACM Student Research Competition at MICRO 2018 and 2019.
 
 He is currently a member of System and Storage Design Lab (advised by [Prof. Ren-Shuo Liu](https://www.ee.nthu.edu.tw/renshuo/)). He also attends ENIAC team (Co-advised by [Prof. Ren-Shuo Liu](https://scholar.google.com/citations?hl=en&user=KEshqdcAAAAJ), [Prof. Meng-Fan Chang](https://scholar.google.com.tw/citations?user=7rcOEiIAAAAJ&hl=zh-TW), [Prof. Chih-Cheng Hsieh](https://scholar.google.com.tw/citations?user=eBnwkkQAAAAJ&hl=zh-TW), [Prof. Kea-Tiong Tang](https://scholar.google.com/citations?user=DiSis28AAAAJ&hl=en) and [Prof. Chung-Chuan Lo](https://scholar.google.com/citations?user=zULxPHYAAAAJ&hl=zh-TW)) to conduct reseaches including neuromorphic computing, computing in memory (CIM), computing in sensor (CIS) and system architecture design.
 
@@ -17,15 +17,16 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 
 
 ## Publications
-### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator** (SRC @ MICRO'19 Graduate Group 2nd Place Winner)
+### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator** 
 - **Yun-Chen Lo**, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
-- [Accepted Papers](https://www.microarch.org/micro52/program/src.html)
 
 
-### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator** (ESSCIRC'19 Accepted)
+
+### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator** (SRC @ MICRO'19 Graduate Group 2nd Place Winner) (ESSCIRC'19 Accepted)
 
 - **Yun-Chen Lo**, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
-- [Session Link](https://www.epapers.org/ess2019/ESR/session_view.php?PHPSESSID=aor588dm67e3ncnm3dvph74b46&session_id=11)
+- [ESSCIRC Session Link](https://www.epapers.org/ess2019/ESR/session_view.php?PHPSESSID=aor588dm67e3ncnm3dvph74b46&session_id=11)
+- [MICRO SRC Accepted Papers](https://www.microarch.org/micro52/program/src.html)
 
 ### **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility** (MICRO'18 SRC Undergraduate Group 2nd Place Winner) (ICCD'19 Work-In-Progress Poster Accepted)
 
