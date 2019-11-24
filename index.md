@@ -21,7 +21,7 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 ### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator** <br/>(SRC @ MICRO'19 Graduate Group Silver Award Winner) <br/> (ESSCIRC'19 Accepted)
 
 - **Yun-Chen Lo**, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
-- [ESSCIRC Session Link](https://www.epapers.org/ess2019/ESR/session_view.php?PHPSESSID=aor588dm67e3ncnm3dvph74b46&session_id=11)
+- [Paper Link](https://ieeexplore.ieee.org/abstract/document/8902909)
 - [MICRO SRC Accepted Papers](https://www.microarch.org/micro52/program/src.html)
 - [SRC Winner List](https://src.acm.org/winners/2020)
 
