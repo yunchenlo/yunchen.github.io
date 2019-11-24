@@ -14,6 +14,8 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 - [Google Scholar](https://scholar.google.com/citations?user=DfbwFFgAAAAJ&hl=zh-TW)
 
 ## Publications
+(* indicates equal contribution)
+
 ### **AI Edge Devices Using Computing-In-Memory and Processing-In-Sensor: From System to Device**<br/>(IEDM'19 Invited)
 - Tzu-Hsiang Hsu, Yen-Cheng Chiu, Wei-Chen Wei, __Yun-Chen Lo__, Chung-Chuan Lo, Ren-Shuo Liu, KeaTiong Tang, Meng-Fan Chang, Chih-Cheng Hsieh
 - [Focus Session Link](https://ieee-iedm.org/wp-content/uploads/2019/10/session-22.pdf)
@@ -27,8 +29,7 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 
 ### **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility** <br/>(SRC @ MICRO'18 Undergraduate Group Silver Award Winner) <br/>(ICCD'19 Work-In-Progress Poster Accepted)
 
-- Yu-Shun Hsiao∗, __Yun-Chen Lo*__, and Ren-Shuo Liu (* indicates equal contribution)
-- [Paper Link](https://www.microarch.org/micro51/SRC/posters/25_hsiao.pdf)
+- Yu-Shun Hsiao∗, __Yun-Chen Lo*__, and Ren-Shuo Liu - [Paper Link](https://www.microarch.org/micro51/SRC/posters/25_hsiao.pdf)
    
     <img src="https://i.imgur.com/Qm2Sbly.png" width="400">
 
