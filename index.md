@@ -15,25 +15,25 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 
 ## Publications
 ### **AI Edge Devices Using Computing-In-Memory and Processing-In-Sensor: From System to Device**<br/>(IEDM'19 Invited)
-- Tzu-Hsiang Hsu, Yen-Cheng Chiu, Wei-Chen Wei, **Yun-Chen Lo**, Chung-Chuan Lo, Ren-Shuo Liu, KeaTiong Tang, Meng-Fan Chang, Chih-Cheng Hsieh
+- Tzu-Hsiang Hsu, Yen-Cheng Chiu, Wei-Chen Wei, __Yun-Chen Lo__, Chung-Chuan Lo, Ren-Shuo Liu, KeaTiong Tang, Meng-Fan Chang, Chih-Cheng Hsieh
 - [Focus Session Link](https://ieee-iedm.org/wp-content/uploads/2019/10/session-22.pdf)
 
 ### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator** <br/>(SRC @ MICRO'19 Graduate Group Silver Award Winner) <br/> (ESSCIRC'19 Accepted)
 
-- **Yun-Chen Lo**, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
+- __Yun-Chen Lo__, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/8902909)
 - [MICRO SRC Accepted Papers](https://www.microarch.org/micro52/program/src.html)
 - [SRC Winner List](https://src.acm.org/winners/2020)
 
 ### **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility** <br/>(SRC @ MICRO'18 Undergraduate Group Silver Award Winner) <br/>(ICCD'19 Work-In-Progress Poster Accepted)
 
-- Yu-Shun Hsiao∗, **Yun-Chen Lo\* **, and Ren-Shuo Liu (* indicates equal contribution)
+- Yu-Shun Hsiao∗, __Yun-Chen Lo*__, and Ren-Shuo Liu (* indicates equal contribution)
 - [Paper Link](https://www.microarch.org/micro51/SRC/posters/25_hsiao.pdf)
    
     <img src="https://i.imgur.com/Qm2Sbly.png" width="400">
 
 ### **DrowsyNet: Convolutional Neural Networks with Runtime Power-Accuracy Tunability Using Inference-Stage Dropout** <br/>(VLSI-DAT'18)
-- Ren-Shuo Liu, **Yun-Chen Lo**, Yuan-Chun Luo, Chih-Yu Shen, and Cheng-Ju Lee
+- Ren-Shuo Liu, __Yun-Chen Lo__, Yuan-Chun Luo, Chih-Yu Shen, and Cheng-Ju Lee
 - [Paper Link](https://ieeexplore.ieee.org/document/8373242/)
    
     <img src="https://i.imgur.com/n2Qj4X3.png" width="400">
