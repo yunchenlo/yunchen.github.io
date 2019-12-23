@@ -27,7 +27,7 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 - [MICRO SRC Accepted Papers](https://www.microarch.org/micro52/program/src.html)
 - [SRC Winner List](https://src.acm.org/winners/2020)
 
- <img src="./pics/ptll-overview.pdf" width="400">
+ <img src="./pics/ptll-overview.png" width="400">
 
 ### **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility** <br/>(SRC @ MICRO'18 Undergraduate Group Silver Award Winner) <br/>(ICCD'19 Work-In-Progress Poster Accepted)
 
