@@ -4,7 +4,7 @@
 	title="A cute kitten" width="270" />
 
 ## Bio
-**Yun-Chen Lo** (Jason) is currently pursuing his master degree at EE Department, National Tsing Hua University, Taiwan.  His research interest includes Computer Architecture, more specifically includes **HW/SW co-design and accelerator design for convolutional neural networks**.  He publishes three papers, two of the papers won **silver award** of ACM **Student Research Competition** at **MICRO 2018 and 2019**, respectively.
+**Yun-Chen Lo** (Jason) is currently pursuing his master degree at EE Department, National Tsing Hua University, Taiwan.  His research interest includes Computer Architecture, more specifically includes **HW/SW co-design and accelerator design for convolutional neural networks**.  He publishes 4 papers, two of the papers won **silver award** of ACM **Student Research Competition at MICRO 2018 and 2019**, respectively.
 
 He is currently a member of System and Storage Design Lab (advised by [Prof. Ren-Shuo Liu](https://www.ee.nthu.edu.tw/renshuo/)). He also attends ENIAC team (Co-advised by [Prof. Ren-Shuo Liu](https://scholar.google.com/citations?hl=en&user=KEshqdcAAAAJ), [Prof. Meng-Fan Chang](https://scholar.google.com.tw/citations?user=7rcOEiIAAAAJ&hl=zh-TW), [Prof. Chih-Cheng Hsieh](https://scholar.google.com.tw/citations?user=eBnwkkQAAAAJ&hl=zh-TW), [Prof. Kea-Tiong Tang](https://scholar.google.com/citations?user=DiSis28AAAAJ&hl=en) and [Prof. Chung-Chuan Lo](https://scholar.google.com/citations?user=zULxPHYAAAAJ&hl=zh-TW)) to conduct reseaches including neuromorphic computing, computing in memory (CIM), computing in sensor (CIS) and flexible deep learning architecture design.
 
@@ -26,6 +26,8 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/8902909)
 - [MICRO SRC Accepted Papers](https://www.microarch.org/micro52/program/src.html)
 - [SRC Winner List](https://src.acm.org/winners/2020)
+
+ <img src="./pics/ptll-overview.pdf" width="400">
 
 ### **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility** <br/>(SRC @ MICRO'18 Undergraduate Group Silver Award Winner) <br/>(ICCD'19 Work-In-Progress Poster Accepted)
 
@@ -85,6 +87,7 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 - **Software Related:** C, Python, Java, Bash script
 - **Tool:** Xilinx Vivado (FPGA), Design Compiler & IC Compiler (Digital VLSI Design), Cadence Stratus (High Level Synthesis)
 
-
+## Professional Activities
+- Reviewer for DAC, PACT.
 
 
