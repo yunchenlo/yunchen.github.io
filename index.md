@@ -1,12 +1,12 @@
 
 
 <img src="./pics/homepage_pic.jpg" alt="Jason"
-	title="A cute kitten" width="270" />
+	title="Profile photo" width="270" />
 
 ## Bio
-**Yun-Chen Lo** (Jason) is currently pursuing his master degree at EE Department, National Tsing Hua University, Taiwan.  His research interest includes Computer Architecture, more specifically includes **HW/SW co-design and accelerator design for convolutional neural networks**.  He publishes 4 papers, two of the papers won **silver award** of ACM **Student Research Competition at MICRO 2018 and 2019**, respectively.
+**Yun-Chen Lo** (Jason) is currently pursuing his master degree at EE Department, National Tsing Hua University, Taiwan.  His research interest includes Computer Architecture, more specifically includes **HW/SW co-design and accelerator design for convolutional neural networks**.  He publishes 4 papers, two of the papers won **silver award** of ACM **Student Research Competition at MICRO 2018 and 2019**, respectively. In addition, He completes **2 functioning chip Tape-outs**.
 
-He is currently a member of System and Storage Design Lab (advised by [Prof. Ren-Shuo Liu](https://www.ee.nthu.edu.tw/renshuo/)). He also attends ENIAC team (Co-advised by [Prof. Ren-Shuo Liu](https://scholar.google.com/citations?hl=en&user=KEshqdcAAAAJ), [Prof. Meng-Fan Chang](https://scholar.google.com.tw/citations?user=7rcOEiIAAAAJ&hl=zh-TW), [Prof. Chih-Cheng Hsieh](https://scholar.google.com.tw/citations?user=eBnwkkQAAAAJ&hl=zh-TW), [Prof. Kea-Tiong Tang](https://scholar.google.com/citations?user=DiSis28AAAAJ&hl=en) and [Prof. Chung-Chuan Lo](https://scholar.google.com/citations?user=zULxPHYAAAAJ&hl=zh-TW)) to conduct reseaches including neuromorphic computing, computing in memory (CIM), computing in sensor (CIS) and flexible deep learning architecture design.
+He is currently a member of System and Storage Design Lab (advised by [Prof. Ren-Shuo Liu](https://www.ee.nthu.edu.tw/renshuo/)). He also attends [ENIAC team](https://eniac.ee.nthu.edu.tw/index.html) (Co-advised by [Prof. Ren-Shuo Liu](https://scholar.google.com/citations?hl=en&user=KEshqdcAAAAJ), [Prof. Meng-Fan Chang](https://scholar.google.com.tw/citations?user=7rcOEiIAAAAJ&hl=zh-TW), [Prof. Chih-Cheng Hsieh](https://scholar.google.com.tw/citations?user=eBnwkkQAAAAJ&hl=zh-TW), [Prof. Kea-Tiong Tang](https://scholar.google.com/citations?user=DiSis28AAAAJ&hl=en) and [Prof. Chung-Chuan Lo](https://scholar.google.com/citations?user=zULxPHYAAAAJ&hl=zh-TW)) to conduct reseaches including neuromorphic computing, computing in memory (CIM), computing in sensor (CIS) and flexible deep learning architecture design.
 
 
 - [Resume (Last Update: Oct. 2019)](https://drive.google.com/file/d/1QGFCl5tX7kb_BmRS08KPIeKVAKxrQaK9/view?usp=sharing)
@@ -74,9 +74,9 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 - **eMemory (Top embedded Flash Memory IP provider)**
     - Research Intern (2017 Summer)
         - Conducted computing in memory research 
-        - Conducted internal Tutorial for 2 hours
-    - Operation Assistance, Legal Department
-        - Helped analyze external patents and collected them as report
+        - Conducted internal Tutorial for audience including CEO, CMO and many engineers.
+    - Operation Assistance, Legal Department (2015 Summer)
+        - Analyzed external patents
 
 - **Microsoft**
     - H1 Online Team Project Manager, Microsoft Student Partners in Taiwan (2016)
