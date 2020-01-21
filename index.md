@@ -1,5 +1,4 @@
 
-
 <img src="./pics/homepage_pic.jpg" alt="Jason"
 	title="Profile photo" width="270" />
 
@@ -10,8 +9,8 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 
 
 - [Resume (Last Update: Oct. 2019)](https://drive.google.com/file/d/1QGFCl5tX7kb_BmRS08KPIeKVAKxrQaK9/view?usp=sharing)
--  [Semantic Scholar](https://www.semanticscholar.org/author/Yun-Chen-Lo/46215383)
 - [Google Scholar](https://scholar.google.com/citations?user=DfbwFFgAAAAJ&hl=zh-TW)
+- [Blog](./blog.html)
 
 ## Publications
 (* indicates equal contribution)
@@ -25,7 +24,7 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 - __Yun-Chen Lo__, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/8902909)
 - [MICRO SRC Accepted Papers](https://www.microarch.org/micro52/program/src.html)
-- [SRC Winner List](https://src.acm.org/winners/2020)
+- [ACM SRC Winner List](https://src.acm.org/winners/2020)
 
  <img src="./pics/ptll-overview.png" width="400">
 
