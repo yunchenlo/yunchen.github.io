@@ -10,7 +10,7 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 
 - [Resume (Last Update: Oct. 2019)](https://drive.google.com/file/d/1QGFCl5tX7kb_BmRS08KPIeKVAKxrQaK9/view?usp=sharing)
 - [Google Scholar](https://scholar.google.com/citations?user=DfbwFFgAAAAJ&hl=zh-TW)
-- [Blog](./blog.html)
+- [My Blog](./Blog/blog.html)
 
 ## Publications
 (* indicates equal contribution)
