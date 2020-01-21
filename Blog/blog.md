@@ -17,4 +17,4 @@
 
 ### Personal Viewpoint
 
-[back to homepage](./)
+[back to homepage](../)
