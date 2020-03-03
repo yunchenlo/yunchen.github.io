@@ -1,5 +1,5 @@
 
-<img src="./pics/homepage_pic.jpg" alt="Jason"
+<img src="./pics/homepage_pic.png" alt="Jason"
 	title="Profile photo" width="270" />
 
 ## Bio
