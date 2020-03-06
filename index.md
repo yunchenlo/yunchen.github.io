@@ -19,7 +19,7 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 - Tzu-Hsiang Hsu, Yen-Cheng Chiu, Wei-Chen Wei, __Yun-Chen Lo__, Chung-Chuan Lo, Ren-Shuo Liu, KeaTiong Tang, Meng-Fan Chang, Chih-Cheng Hsieh
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/8993452)
 
-#### **PTLL-BNN: Physically-Tightly-coupled, Logically-Loosely-coupled, Near-Memory BNN Accelerator** <br/>(SRC @ MICRO'19 Graduate Group Silver Award Winner) <br/> (ESSCIRC'19 Accepted)
+#### **Physically Tightly Coupled, Logically Loosely coupled, Near-Memory BNN Accelerator (PTLL-BNN)** <br/>(SRC @ MICRO'19 Graduate Group Silver Award Winner) <br/> (ESSCIRC'19 Accepted)
 
 - __Yun-Chen Lo__, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/8902909)
@@ -45,10 +45,10 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 ### 2019
 - **Silver Award** on **ACM/IEEE MICRO-52 Student Research Competition (SRC)**, Graduate Group
 - **NOVATEK Scholarship**
-- **Artificial Intelligence and Information Technology Outstanding Research Award** from **Appier Inc.**
+- **Artificial Intelligence and Information Technology Outstanding Travel Award** from **Appier Inc.**
 
 ### 2018
-- **Artificial Intelligence and Information Technology Outstanding Research Award** from **Appier Inc.**
+- **Artificial Intelligence and Information Technology Outstanding Travel Award** from **Appier Inc.**
 - **Silver Award** on **ACM/IEEE MICRO-51 Student Research Competition (SRC)**, Undergraduate Group
 - **MICRO Student Travel Grant**
 
