@@ -28,7 +28,7 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 
  <img src="./pics/ptll-overview.png" width="400">
 
-#### **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility** <br/>(SRC @ MICRO'18 Undergraduate Group Silver Award Winner) <br/>(ICCD'19 Work-In-Progress Poster Accepted)
+#### **FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility** <br/>(SRC @ MICRO'18 Undergraduate Group Silver Award Winner)
 
 - Yu-Shun Hsiao∗, __Yun-Chen Lo*__, and Ren-Shuo Liu 
 - [Paper Link](https://www.microarch.org/micro51/SRC/posters/25_hsiao.pdf)
