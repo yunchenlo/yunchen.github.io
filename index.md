@@ -62,10 +62,10 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 
 	
 ## Selected Open-Source Projects
-1. [**Lenet Accelerator (16 stars, 12 forks)**](https://github.com/jasonlo0509/Lenet_Accelerator)
+1. **Lenet Accelerator**
 2. [**Dockerized YOLO on Rpi Cluster (1 star, 1 fork)**]((https://github.com/jasonlo0509/Dockerized-YOLO-on-Rpi-Cluster))
 3. [**Hadoop PageRank (1 star)**](https://github.com/jasonlo0509/Hadoop_PageRank)
-4. [**Font2Font (5 stars, 1 fork)**](https://github.com/jasonlo0509/Font2Font)
+4. [**Font2Font (6 stars, 2 fork)**](https://github.com/jasonlo0509/Font2Font)
 
 
 ## Internships
