@@ -2,17 +2,17 @@
 <img src="./pics/homepage_pic.png" alt="Jason"
 	title="Profile photo" width="270" />
 
-## Bio
+## Biography
 **Yun-Chen Lo** (Jason) is currently pursuing his master degree at EE Department, National Tsing Hua University, Taiwan.  His research interest includes Computer Architecture, more specifically includes **HW/SW co-design and accelerator design for convolutional neural networks**.  He publishes 4 papers, two of the papers won **silver award** of ACM **Student Research Competition at MICRO 2018 and 2019**, respectively. In addition, He completes **2 functioning chip Tape-outs**.
 
 He is currently a member of System and Storage Design Lab (advised by [Prof. Ren-Shuo Liu](https://www.ee.nthu.edu.tw/renshuo/)). He also attends [ENIAC team](https://eniac.ee.nthu.edu.tw/index.html) (Co-advised by [Prof. Ren-Shuo Liu](https://scholar.google.com/citations?hl=en&user=KEshqdcAAAAJ), [Prof. Meng-Fan Chang](https://scholar.google.com.tw/citations?user=7rcOEiIAAAAJ&hl=zh-TW), [Prof. Chih-Cheng Hsieh](https://scholar.google.com.tw/citations?user=eBnwkkQAAAAJ&hl=zh-TW), [Prof. Kea-Tiong Tang](https://scholar.google.com/citations?user=DiSis28AAAAJ&hl=en) and [Prof. Chung-Chuan Lo](https://scholar.google.com/citations?user=zULxPHYAAAAJ&hl=zh-TW)) to conduct reseaches including neuromorphic computing, computing in memory (CIM), computing in sensor (CIS) and flexible deep learning architecture design.
 
 
-- [Resume (Last Update: Oct. 2019)](https://drive.google.com/file/d/1QGFCl5tX7kb_BmRS08KPIeKVAKxrQaK9/view?usp=sharing)
+- [Resume (Last Update: Mar. 2020)](https://drive.google.com/file/d/1QGFCl5tX7kb_BmRS08KPIeKVAKxrQaK9/view?usp=sharing)
 - [Google Scholar](https://scholar.google.com/citations?user=DfbwFFgAAAAJ&hl=zh-TW)
 - [My Blog](./Blog/blog.html)
 
-## Publications
+## Publication
 (* indicates equal contribution)
 
 #### **AI Edge Devices Using Computing-In-Memory and Processing-In-Sensor: From System to Device**<br/>(IEDM'19 Invited)
@@ -70,6 +70,9 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 
 ## Internships
 	
+- **Microsoft**
+    - H1 Online Team Project Manager, Microsoft Student Partners in Taiwan (2016)
+
 - **eMemory (Top embedded Flash Memory IP provider)**
     - Research Intern (2017 Summer)
         - Conducted computing in memory research 
@@ -77,16 +80,10 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
     - Operation Assistance, Legal Department (2015 Summer)
         - Analyzed external patents
 
-- **Microsoft**
-    - H1 Online Team Project Manager, Microsoft Student Partners in Taiwan (2016)
 
 
-## Programming Language & Tools
-- **Hardware Related:** Verilog, System Verilog, System-C (HLS)
-- **Software Related:** C, Python, Java, Bash script
-- **Tool:** Xilinx Vivado (FPGA), Design Compiler & IC Compiler (Digital VLSI Design), Cadence Stratus (High Level Synthesis)
 
-## Professional Activities
-- Reviewer for VLSI Symposium, DAC, ICCAD, and PACT.
-
+## Reviewer
+- 	Conference: VLSI Symposia, DAC, ICCAD, and PACT.
+- 	Journal: JETCAS and TVLSI
 
