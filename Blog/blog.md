@@ -16,7 +16,7 @@
 - [phD Advice](https://github.com/jasonlo0509/phD_advice)
 
 ### Personal Articles
-- [清大碩士班期間遇武漢肺炎疫情自主健康管理之心得 (2020 Mar.)](./PA/2020_march_coronavirus.html)
+- [嘿，我讀清大，我自主健康管理了一週](./PA/2020_march_coronavirus.html)
 
 
 [back to homepage](../)
