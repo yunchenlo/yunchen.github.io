@@ -42,6 +42,9 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
     <img src="https://i.imgur.com/n2Qj4X3.png" width="400">
   
 ## Awards & Scholarships
+### 2020
+- **The Phi Tau Phi Scholastic Honor Society of the Republic of China** Membership
+
 ### 2019
 - **Silver Award** on **ACM/IEEE MICRO-52 Student Research Competition (SRC)**, Graduate Group
 - **NOVATEK Scholarship**
@@ -84,6 +87,6 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 
 
 ## Reviewer
-- 	Conference: VLSI Symposia, DAC, ICCAD, and PACT.
+- 	Conference: MICRO, VLSI Symposia, DAC, ICCAD, and PACT.
 - 	Journal: JETCAS and TVLSI
 
