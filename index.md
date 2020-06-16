@@ -12,7 +12,7 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 - [Google Scholar](https://scholar.google.com/citations?user=DfbwFFgAAAAJ&hl=zh-TW)
 - [My Blog](./Blog/blog.html)
 
-## Publication
+## Publications
 (* indicates equal contribution)
 
 #### **AI Edge Devices Using Computing-In-Memory and Processing-In-Sensor: From System to Device**<br/>(IEDM'19 Invited)
@@ -43,6 +43,7 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
   
 ## Awards & Scholarships
 ### 2020
+-  **DAC 2020 Young Fellow Member**
 - **The Phi Tau Phi Scholastic Honor Society of the Republic of China** Membership
 
 ### 2019
