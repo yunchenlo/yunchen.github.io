@@ -3,7 +3,7 @@
 	title="Profile photo" width="270" />
 
 ## Biography
-**Yun-Chen Lo** (Jason) is currently pursuing his master degree at EE Department, National Tsing Hua University, Taiwan.  His research interest includes Computer Architecture, more specifically includes **HW/SW co-design and accelerator design for convolutional neural networks**.  He publishes 4 papers, two of the papers won **silver award** of ACM **Student Research Competition at MICRO 2018 and 2019**, respectively. In addition, He completes **2 functioning chip Tape-outs**.
+**Yun-Chen Lo** (Jason) is currently pursuing his master degree at EE Department, National Tsing Hua University, Taiwan.  His research interest includes Computer Architecture, more specifically includes **HW/SW co-design and accelerator design for convolutional neural networks**.  He publishes 4 papers, two of the papers won **silver award** of ACM **Student Research Competition at MICRO 2018 and 2019**, respectively. In addition, he completes **2 functioning chip Tape-outs**.
 
 He is currently a member of System and Storage Design Lab (advised by [Prof. Ren-Shuo Liu](https://www.ee.nthu.edu.tw/renshuo/)). He also attends [ENIAC team](https://eniac.ee.nthu.edu.tw/index.html) (Co-advised by [Prof. Ren-Shuo Liu](https://scholar.google.com/citations?hl=en&user=KEshqdcAAAAJ), [Prof. Meng-Fan Chang](https://scholar.google.com.tw/citations?user=7rcOEiIAAAAJ&hl=zh-TW), [Prof. Chih-Cheng Hsieh](https://scholar.google.com.tw/citations?user=eBnwkkQAAAAJ&hl=zh-TW), [Prof. Kea-Tiong Tang](https://scholar.google.com/citations?user=DiSis28AAAAJ&hl=en) and [Prof. Chung-Chuan Lo](https://scholar.google.com/citations?user=zULxPHYAAAAJ&hl=zh-TW)) to conduct reseaches including neuromorphic computing, computing in memory (CIM), computing in sensor (CIS) and flexible deep learning architecture design.
 
@@ -19,7 +19,7 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
 - Tzu-Hsiang Hsu, Yen-Cheng Chiu, Wei-Chen Wei, __Yun-Chen Lo__, Chung-Chuan Lo, Ren-Shuo Liu, KeaTiong Tang, Meng-Fan Chang, Chih-Cheng Hsieh
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/8993452)
 
-#### **Physically Tightly Coupled, Logically Loosely coupled, Near-Memory BNN Accelerator (PTLL-BNN)** <br/>(SRC @ MICRO'19 Graduate Group Silver Award Winner) <br/> (ESSCIRC'19 Accepted)
+#### **Physically Tightly Coupled, Logically Loosely coupled, Near-Memory BNN Accelerator (PTLL-BNN)** <br/>(SRC @ MICRO'19 Graduate Group Silver Award Winner) <br/> (ESSCIRC'19 Accepted) <br/> (Domestic Conference: VLSI-CAD'20 Best Paper)
 
 - __Yun-Chen Lo__, Yu-Chun Kuo, Yun-Sheng Chang, Jian-Hao Huang, Ruen-Shen Wu, Wen-Chien Ting, Tai-Hsing Wen, and Ren-Shuo Liu
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/8902909)
@@ -43,7 +43,8 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
   
 ## Awards & Scholarships
 ### 2020
--  **DAC 2020 Young Fellow Member**
+- **TSRI Digital Design Special Award**
+- **DAC 2020 Young Fellow**
 - **The Phi Tau Phi Scholastic Honor Society of the Republic of China** Membership
 
 ### 2019
@@ -83,7 +84,6 @@ He is currently a member of System and Storage Design Lab (advised by [Prof. Ren
         - Conducted internal Tutorial for audience including CEO, CMO and many engineers.
     - Operation Assistance, Legal Department (2015 Summer)
         - Analyzed external patents
-
 
 
 
