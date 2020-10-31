@@ -1,6 +1,6 @@
 ## Biography
 <img align="right" src="./pics/homepage_pic.png" alt="Jason"
-	title="Profile photo" width="270" /> 
+	title="Profile photo" width="250" /> 
 **Yun-Chen Lo** 羅允辰 (Jason) is currently pursuing MS degree in EE from National Tsing Hua University (NTHU), Taiwan. 
 
 His research interest is **HW/SW co-design and accelerator design for convolutional neural networks**.  He has published 4 papers, two of the papers won **silver award** of ACM **Student Research Competition at MICRO 2018 and 2019**, respectively. In addition, he completes **2 functioning chip Tape-outs**.
@@ -10,7 +10,8 @@ He is currently a member of System and Storage Design Lab (SSDLab, advised by [P
 - [Resume (Last Update: Mar. 2020)](https://drive.google.com/file/d/1QGFCl5tX7kb_BmRS08KPIeKVAKxrQaK9/view?usp=sharing)
 - [My Blog](./Blog/blog.html)
 
-## Selected Publications (All Publications on [Google Scholar](https://scholar.google.com/citations?user=DfbwFFgAAAAJ&hl=zh-TW))
+## Selected Publications 
+(All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=DfbwFFgAAAAJ&hl=zh-TW))
 (* indicates equal contribution)
 
 
