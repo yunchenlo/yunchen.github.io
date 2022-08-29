@@ -8,7 +8,7 @@ His research interest is **HW/SW co-design and accelerator design for convolutio
 He is currently a member of System and Storage Design Lab (SSDLab, advised by [Prof. Ren-Shuo Liu](https://www.ee.nthu.edu.tw/renshuo/)). He also attends [ENIAC team](https://eniac.ee.nthu.edu.tw/index.html) (Co-advised by [Prof. Ren-Shuo Liu](https://scholar.google.com/citations?hl=en&user=KEshqdcAAAAJ), [Prof. Meng-Fan Chang](https://scholar.google.com.tw/citations?user=7rcOEiIAAAAJ&hl=zh-TW), [Prof. Chih-Cheng Hsieh](https://scholar.google.com.tw/citations?user=eBnwkkQAAAAJ&hl=zh-TW), [Prof. Kea-Tiong Tang](https://scholar.google.com/citations?user=DiSis28AAAAJ&hl=en) and [Prof. Chung-Chuan Lo](https://scholar.google.com/citations?user=zULxPHYAAAAJ&hl=zh-TW)) to conduct reseaches including neuromorphic computing, computing in memory (CIM), computing in sensor (CIS) and flexible deep learning architecture design.
 
 - [Resume (Last Update: Mar. 2020)](https://drive.google.com/file/d/1QGFCl5tX7kb_BmRS08KPIeKVAKxrQaK9/view?usp=sharing)
-- [My Blog](./Blog/blog.html)
+<!--- [My Blog](./Blog/blog.html)-->
 
 ## Selected Publications 
 (All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=DfbwFFgAAAAJ&hl=zh-TW))
